@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class WeatherDashboard {
 
-    static final String API_KEY = "a60130c1d47506f460b7bf4271cbe7ae";
+    static final String API_KEY = "API-KEY-HERE";
 
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
